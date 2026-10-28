@@ -1,0 +1,9 @@
+# ASAP source: https://www.kaggle.com/competitions/asap-aes/data
+# Set ASAP_DATA_PATH to override this local default. Kaggle authentication is not assumed.
+data_path: data/raw/training_set_rel3.tsv
+random_seed: 42
+minimum_words: 5
+minimum_rows_per_prompt: 20
+model_version: 1.0.0
+# Optional documented rubric ranges can be supplied here after verifying the downloaded file.
+# score_ranges: {"1": [2, 12], "2": [1, 6]}
